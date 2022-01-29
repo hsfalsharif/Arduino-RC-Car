@@ -1,0 +1,14 @@
+Motor Pins
+M1:
+ENA = 6
+IN1 = 7
+IN2 = 4
+
+M2:
+ENB = 5
+IN3 = 3
+IN4 = 6
+
+RF:
+CE = 9
+CSN = 8
